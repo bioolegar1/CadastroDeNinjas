@@ -2,6 +2,7 @@ package dev.java10x.CadastroDeNinjas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.stereotype.Service;
 
 @SpringBootApplication
 public class CadastroDeNinjasApplication {
